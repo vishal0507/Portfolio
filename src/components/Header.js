@@ -25,9 +25,7 @@ const Header = () => {
             <Link to="contact" smooth={true} duration={500}>
                 <h4>Contact Me</h4>
             </Link>
-       
             
-
         </div>
     </div>
   )

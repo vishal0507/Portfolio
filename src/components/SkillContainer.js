@@ -1,7 +1,7 @@
 import React from 'react';
 import { Element } from 'react-scroll';
 import Skilling from '../asserts/skill.webp';
-import { LinearProgress } from '@mui/material';
+import { LinearProgress } from '@material-ui/core';
 import './SkillContainer.css';
 
 const SkillContainer = () => {
